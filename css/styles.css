@@ -40,7 +40,7 @@ h6{
 
 .seemore-btn:hover{
     background-color: #FEF4EC;
-    color: black; 
+    color: #252525; 
 } 
 
 .pro-1btn{
@@ -145,12 +145,12 @@ background-color:#FEF4EC ;
     font-weight: 500; 
     margin-top: 2%;
      background-color: #252525;
-     color: whitesmoke;
+     color: #ffffff;
 }
 
 .title-btn:hover{
     background-color: #FEF4EC;
-    color: black; 
+    color: #252525; 
 } 
 
 /* Products Section */
@@ -189,7 +189,7 @@ h6{
 
 .seemore-btn:hover{
     background-color: #FEF4EC;
-    color: black; 
+    color: #252525; 
 } 
 
 .pro-1btn{
@@ -257,12 +257,12 @@ font-size: 0.90rem;
     margin-top: 2%;
      margin-bottom: 2%;
      background-color: #252525;
-     color: whitesmoke;
+     color: ;
 }
 
 .about-btn:hover{
     background-color: #FEF4EC;
-    color: black; 
+    color: #252525; 
 } 
 
 /* CUSTOMER Section */
@@ -298,13 +298,13 @@ font-size: 0.90rem;
 
 .get-1btn:hover{
      background-color: #252525;
-    color: white;
+    color: #ffffff;
     
 }
 
 .get-2button{
    background-color: #FEF4EC;
-    color: black;
+    color: ;
     margin-left: 1%;
     margin-top: 15%;
     font-size: 0.95rem;
@@ -315,15 +315,16 @@ font-size: 0.90rem;
 
 .get-2button:hover{
     background-color: #252525;
-    color: white;
+    color: #ffffff;
 }
 
 /* Footer Section */
 
 #footer{
     background-color: #252525;
-    color: floralwhite;
+    color: #ffffff;
   margin-top: 4%;
+    padding-bottom: 3%;
    
 }
 
