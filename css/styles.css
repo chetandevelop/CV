@@ -252,12 +252,11 @@ font-size: 0.90rem;
 
 .about-btn{
     margin-left: 10%;
-   
     font-weight: 400;
     margin-top: 2%;
      margin-bottom: 2%;
      background-color: #252525;
-     color: ;
+     color: whitesmoke;
 }
 
 .about-btn:hover{
@@ -304,7 +303,7 @@ font-size: 0.90rem;
 
 .get-2button{
    background-color: #FEF4EC;
-    color: #252525;
+    color: black;
     margin-left: 1%;
     margin-top: 15%;
     font-size: 0.95rem;
