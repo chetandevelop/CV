@@ -262,7 +262,7 @@ font-size: 0.90rem;
 
 .about-btn:hover{
     background-color: #FEF4EC;
-    color: #252525; 
+    color: #ffffff; 
 } 
 
 /* CUSTOMER Section */
@@ -304,7 +304,7 @@ font-size: 0.90rem;
 
 .get-2button{
    background-color: #FEF4EC;
-    color: ;
+    color: #252525;
     margin-left: 1%;
     margin-top: 15%;
     font-size: 0.95rem;
