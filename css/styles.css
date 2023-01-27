@@ -324,6 +324,7 @@ font-size: 0.90rem;
     background-color: #252525;
     color: #ffffff;
   margin-top: 4%;
+    padding-bottom:1%;
     padding-bottom: 3%;
    
 }
@@ -335,8 +336,8 @@ font-size: 0.90rem;
 }
 
 .social-icon{
-    margin: 20px 30px 20px 10px;
-    font-size: 1.5rem;
+    margin: 22px 30px 20px 10px;
+    font-size: 1.7rem;
 }
 
 @media(max-width:546px){
