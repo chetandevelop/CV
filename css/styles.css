@@ -6,68 +6,7 @@ h1{
     text-align: center;
 }
 
-/* Products Section */
 
-#products{
-margin-top: 5%;
-    margin-left: 2%;
-   text-align: center;     
-}
-
-h6{
-    margin-top: 1%;
-    margin-bottom: 6%;
-}
-.pro-img{
-    width: 180px;
-    height: 230px;
-    
-}
-.pro-paragraph{
-    width: 100%;
-    font-size: 0.88rem;
-    font-weight: 450;
-}
-
-.seemore-btn{
-     margin: 3% auto ;  
-     color: #ffffff;
-    background-color: #252525;
-    border-radius: 10%;
-    font-size: 1.1rem;
-    padding: 7px 15px;
-}
-
-.seemore-btn:hover{
-    background-color: #FEF4EC;
-    color: #252525; 
-} 
-
-.pro-1btn{
-     background-color: #f5ddb6; 
-    border-radius: 37px;
-  font-family: Arial;
-  color: #ffffff;
-
-  font-size: 14px;
-  padding: 7px 11px 6px 11px;
-       
-}
-
-.pro-2btn{
-    background: #ffff; 
-    border-radius: 37px;
-  font-family: Arial;
-  color: #252525;
-  font-size: 14px;
-  padding: 7px 11px 6px 11px;
-       
-}
-.ppp:hover {
-  background: #f5ddb6;
-
- color: #ffffff;
-}
 
 /* NAVBAR Section */
 
